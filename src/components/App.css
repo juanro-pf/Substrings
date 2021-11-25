@@ -1,0 +1,25 @@
+.main_container {
+  text-align: center;
+}
+
+.main_container_textarea {
+  background-color: #e1f1eb;
+  font-size: 20px;
+  line-height: 30px;
+  margin-bottom: 30px;
+  min-height: 200px;
+  padding: 10px;
+  resize: none;
+  width: 90%;
+}
+
+.main_container_div {
+  background-color: #e1f1eb;
+  font-size: 20px;
+  line-height: 30px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+  min-height: 200px;
+  padding: 10px;
+  width: 90%;
+}
